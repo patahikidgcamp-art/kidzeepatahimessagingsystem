@@ -1,0 +1,6 @@
+{
+  "name": "EduNotify - Automated Parent Reporting & Messaging Suite",
+  "description": "Automated parent notification and reporting platform with Excel data import, personalized student performance metrics, custom message templates, dues owed tracking, and scheduled SMS/WhatsApp dispatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

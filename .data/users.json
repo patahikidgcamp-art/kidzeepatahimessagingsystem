@@ -1,0 +1,30 @@
+[
+  {
+    "id": "usr-primary-admin",
+    "username": "raushani",
+    "passwordSalt": "0e87a4acad92fe3875860a758c8c7be3",
+    "passwordHash": "034eefbacc5b9f1178fa404bfe1035627dd94a4e22d7cec538e4ad00a0e63cdb",
+    "fullName": "Raushani Kumari",
+    "email": "admin@kidzeeschool.in",
+    "phone": "+91 98012 78254",
+    "designation": "Principal / Chief Administrator",
+    "department": "School Administration",
+    "role": "admin",
+    "isPrimaryAdmin": true,
+    "isActive": true,
+    "inactivityTimeoutMinutes": 15,
+    "permissions": {
+      "viewStudents": true,
+      "editStudents": true,
+      "sendWhatsapp": true,
+      "managePdf": true,
+      "manageTemplates": true,
+      "manageScheduler": true,
+      "viewReports": true,
+      "downloadInstallers": true,
+      "manageUsers": true
+    },
+    "createdAt": "2026-11-21T06:04:31.377Z",
+    "lastLoginAt": "2026-11-21T06:04:41.641Z"
+  }
+]

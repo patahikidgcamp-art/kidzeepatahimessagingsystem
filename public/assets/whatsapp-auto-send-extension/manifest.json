@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Kidzee School - WhatsApp Web Auto-Send & Auto-Close",
+  "version": "1.0",
+  "description": "Automatically clicks the Send button on WhatsApp Web for Kidzee School parent notices and closes the tab after dispatch.",
+  "permissions": [],
+  "host_permissions": [
+    "https://web.whatsapp.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://web.whatsapp.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "CONNECTED",
+  "connectedUser": {
+    "phoneNumber": "9801278254",
+    "pushName": "Kidzee School Admin",
+    "schoolName": "Kidzee School",
+    "platform": "WhatsApp Web v2.3000.10 / Chrome (Linux)",
+    "batteryLevel": 98,
+    "isCharging": true,
+    "connectedAt": "2026-10-28T03:49:16.404Z",
+    "sessionId": "WA_SESSION_8CEBED704B03",
+    "messagesSentCount": 0
+  }
+}
